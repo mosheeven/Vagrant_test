@@ -1,4 +1,8 @@
 Hi, 
 
 Testing vagrnt. 
-Create an evniorment an deploy it on other machine 
+Create an webserver evniorment.
+
+#apt-get update 
+#apt-get install -y apache2
+
